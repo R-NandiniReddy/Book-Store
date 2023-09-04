@@ -1,0 +1,22 @@
+body{
+    background:linear-gradient(#2f3030 0%, #0c0d0d 100%)
+}   
+.header{
+    font-size: 5vw;
+    font-family: fantasy;
+    color: antiquewhite;
+}
+.main{
+       width= 1000px;
+        height= 800px; 
+        display:inline-flex;
+        margin: 5px;
+        }
+        
+.box{
+    color:chartreuse;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin:15px;
+        }

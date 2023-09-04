@@ -1,0 +1,30 @@
+body{
+    background:linear-gradient(#2f3030 0%, #0c0d0d 100%)
+} 
+.header{
+    font-size: 5vw;
+    font-family: fantasy;
+    color: antiquewhite;
+}
+label{
+    font-family: monospace;
+    color:cyan;
+    font-size: 2vw;
+   
+    margin:10px;
+    width:200px;
+    display: inline-block;
+ }
+input{
+    padding: 10px;
+    margin: 5px;
+    
+}
+.head2{
+    font-family: sans-serif;
+    color: chartreuse;
+}
+.head3{
+    font-family: sans-serif;
+    color: darkorange;
+}
